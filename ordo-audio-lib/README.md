@@ -306,4 +306,3 @@ Requires: `getUserMedia`, `AudioContext`, `AnalyserNode`, `requestAnimationFrame
 ## License
 
 MIT License — Copyright (c) 2024 Acoustic Field Pro / OrdoAudio Contributors
-
